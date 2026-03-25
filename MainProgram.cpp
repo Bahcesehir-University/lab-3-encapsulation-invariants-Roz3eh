@@ -273,6 +273,3 @@ int main() {
     cout << "=== Lab Complete ===" << endl;
     return 0;
 }
-    cout << "=== Lab Complete ===" << endl;
-    return 0;
-}
